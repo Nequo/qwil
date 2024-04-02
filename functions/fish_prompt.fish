@@ -1,3 +1,3 @@
-function fish_prompt --description Hydro
-    echo -e "$_hydro_color_pwd$_hydro_pwd$hydro_color_normal $_hydro_color_git$$_hydro_git$hydro_color_normal$_hydro_color_duration$_hydro_cmd_duration$hydro_color_normal$_hydro_status$hydro_color_normal "
+function fish_prompt --description qwil
+    echo -e "$_qwil_color_toolbox$_qwil_toolbox$qwil_color_normal$_qwil_color_pwd$_qwil_pwd$qwil_color_normal $_qwil_color_git$$_qwil_git$qwil_color_normal$_qwil_color_duration$_qwil_cmd_duration$qwil_color_normal$_qwil_status$qwil_color_normal "
 end
